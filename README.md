@@ -32,7 +32,7 @@ Failure rate analysis
 -  Highest per department (RANK)
 
 #### High Failure Rate Accounts
-Accounts with >30% failure rate
+- Accounts with >30% failure rate
 
 #### Fraud Risk Score per Account
 - Duplicate transaction weighted scoring
